@@ -15,4 +15,4 @@ computerAge = int(age)+10
 computerAge = str(computerAge)
 print("Hi yougster, I'm "+computerAge)
 
-input("Press enter to quit")
+input("Press enter to quit now")
