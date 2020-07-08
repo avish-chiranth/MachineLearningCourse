@@ -11,3 +11,5 @@ Unsupervised Learning: Unsupervised learning is a type of machine learning that 
 What is Linear regression: Linear Regression is a machine learning algorithm based on supervised learning. ... Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). This is a supervised learning that essentially predicts based on a given set of independent variables. Can not be used in  <br /> 
 Why do we use linear regression: We use linear regression when a set of values are already given to you. This makes it easier to compile the set of data and create a prediction as well as a line of best yet. <br /> 
 
+In the case of the project, there Linear Regression will be used in a line fitting or line testing sense. Through Kaggle Notebook, the written code in python essentially takes the data and models what variables and values have the greatest effect in determining the y value, or the dependent variable.
+
